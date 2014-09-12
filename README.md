@@ -1,8 +1,6 @@
 <html
 <body>
-<div>
 <h1>Diario "el avion"</h1>
-</div>
 _______________________________________________________________________
 <h3>Hackers, Redes Sociales, servidores y codificacion.</h3> <i>del 11/09/2014</i>
 <p>
@@ -14,6 +12,8 @@ Como todos sabemos, las redes sociales han tenido lugar desde hace decadas, pero
 <span>
 Captura de pantalla codificando en <a href="https://www.ubuntu.com">Ubuntu.</a>
 </span>
+
+&#9426;
 
 
 
