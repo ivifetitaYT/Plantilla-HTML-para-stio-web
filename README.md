@@ -11,7 +11,7 @@ Como todos sabemos, las redes sociales han tenido lugar desde hace decadas, pero
 <img alt="" src="http://i.stack.imgur.com/lWM6P.png">
 
 
-<span style="color: #007AFF">
+<span>
 Captura de pantalla codificando en <a href="https://www.ubuntu.com">Ubuntu.</a>
 </span>
 _________________________________________________________________________
