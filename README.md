@@ -13,6 +13,8 @@ Como todos sabemos, las redes sociales han tenido lugar desde hace decadas, pero
 <span style="color: #007AFF">
 Captura de pantalla codificando en <a href="https://www.ubuntu.com">Ubuntu.</a>
 </span>
+_________________________________________________________________________
+ ©2014-2015 Copyright. <a href="mailto:ivifedorus@yahoo.com.ar">Contacto</a>
 
 
 
