@@ -1,6 +1,6 @@
 <html
 <body>
-<h1>Diario "el avion"</h1>
+<h1 style="color: #DF0101" id="Diario El Avion">Diario "El Avion"</h1>
 _______________________________________________________________________
 <h3>Hackers, Redes Sociales, servidores y codificacion.</h3> <i>del 11/09/2014</i>
 <p>
